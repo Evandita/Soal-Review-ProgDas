@@ -42,7 +42,7 @@ Input
 Output
 
 ```
-C
+C+
 ```
 
 ## Test Case 3
